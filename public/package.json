@@ -1,0 +1,15 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "check list calender",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "keywords": [
+    "calender",
+    "reminder"
+  ],
+  "author": "bill tanthowi jauhari",
+  "license": "ISC"
+}
